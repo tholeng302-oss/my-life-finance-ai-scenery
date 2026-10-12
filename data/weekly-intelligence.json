@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:22:58.985Z",
+  "updatedAt": "2026-10-12T06:39:58.483Z",
   "topics": [
     {
       "id": "ai",
@@ -28,6 +28,16 @@
       ],
       "items": [
         {
+          "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
+          "titleEn": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
+          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5",
+          "publishedAt": "2026-10-06",
+          "kind": "新闻"
+        },
+        {
           "title": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
           "titleEn": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
           "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
@@ -35,16 +45,6 @@
           "source": "Google News RSS",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzlaalc4M1lYMERJcTFfSkt3SVJlVm1tQ3AyNzZ4VkY1TjUwQmZFb3c0LWVpNzhLMVFZSWw2Q01LUmNST1h0NFRZMzRDRXhWNk8zZktNa3VycUtNbVR0YjJsdnR3b2dGNlNXRExqRGdIS3FmRjFjX2FrRDVBVUVGWTRxa3VUOHNhVWp3dHNYWmlYZE1lRkdjYUJjSGNmSXdTMkJvbdIBqgFBVV95cUxNRFczRTQ3OFQ0Z3hpWHJDYTl0LU9Nc2FRNFhjeDdGOUxLRU9UMzNRREhZUDhLemIxdGUtS0E0bmcxNlZ6b0tYYVVTTi1ScTA2V2ViLVZ6NEY1SWh0NjdIQ0RkMU9BamF4MnBYM05oS1RVd3RfOFRDbzFZNkRoN21jeDlzQ1Z6aDduV0RjdVl4d2ZsUzJBOGZPYVQ3QlJsYmNnbi1IbnJUNnJJdw?oc=5",
           "publishedAt": "2026-09-17",
-          "kind": "新闻"
-        },
-        {
-          "title": "AI Advances into Biotech R&D: Microsoft's Quine Sparks a Race Among Tech Giants - finance.biggo.com",
-          "titleEn": "AI Advances into Biotech R&D: Microsoft's Quine Sparks a Race Among Tech Giants - finance.biggo.com",
-          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83OUI3NHQyaVhPZXZxZUZEMDFmNURCVmRYajVPWHBtRWlMeEhjeHZYd1B1WXd0Rk84eW9zRzZvV0cyVXVEODZFTjFfX0pCMDBUcVI5YngxM3pHbGkzekRKRTZ5QjNmUzg2OE91dHVVdVYyOXFqN3c?oc=5",
-          "publishedAt": "2026-10-03",
           "kind": "新闻"
         },
         {
@@ -78,8 +78,18 @@
       ],
       "items": [
         {
-          "title": "Equal weight ETFs: reducing market concentration - invesco.com",
-          "titleEn": "Equal weight ETFs: reducing market concentration - invesco.com",
+          "title": "How the Largest Stock ETFs in the UK Performed - Morningstar",
+          "titleEn": "How the Largest Stock ETFs in the UK Performed - Morningstar",
+          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaU90VEFfaWhqVFJ4N2NEeGNMckc1SmEwdHFfMXA5ZWJVZHFxME5yR0hFUHMzeE5IVnBMLWZVR0lXekRreS1CanljYUJjWjRka244blBDNUVWNmtVa1lZTmw4RzhYSmx0WDJGUWZRQ01pVENNZ1dhalpzR2JSLXpGXzVrTQ?oc=5",
+          "publishedAt": "2026-10-06",
+          "kind": "新闻"
+        },
+        {
+          "title": "Equal weight ETFs: reducing market concentration - Invesco",
+          "titleEn": "Equal weight ETFs: reducing market concentration - Invesco",
           "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
           "source": "Google News RSS",
@@ -88,23 +98,13 @@
           "kind": "新闻"
         },
         {
-          "title": "The Best Equity ETFs - Morningstar",
-          "titleEn": "The Best Equity ETFs - Morningstar",
+          "title": "Top 10 best-selling ETFs of 2026 - Fidelity International",
+          "titleEn": "Top 10 best-selling ETFs of 2026 - Fidelity International",
           "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Gc3VpNHhwOFZsZ29pT2d6a3ZoZFN3OVQxN1VEVTBTbHFHUDVUOG1XblVvcUl3cGRKaGE0VC0wc2ZMWUdJVG1TYUpCT1ZUOXZkS1VrYUNiZGNYSERUMTR3?oc=5",
-          "publishedAt": "2026-09-21",
-          "kind": "新闻"
-        },
-        {
-          "title": "Why the S&P 500 had its best month in over 5 years despite Middle East uncertainty - Chase Bank",
-          "titleEn": "Why the S&P 500 had its best month in over 5 years despite Middle East uncertainty - Chase Bank",
-          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0V4WHY2Mm9HbnpKUFFLc0dTVVZYb3ZGNUdjcmdac21WeG9BLS1iYU1TRzdZVXBacDlkenYxY0lhN3QyaFFlaUlxZVk2bHZzTmdlOGkwcGhYRno5cmtNWm9jRXZKbTZNTnFJaW50THZfMGlQQTMxV2RZaDIxYU9yaUliS1lKeFNxLUFtcVpwSDRZREViZWlJWmRVVDRZMldXbjh3ekJhcEt4STNBRldBRm55T2cxbjl1NTI3X3JqNmJLUQ?oc=5",
-          "publishedAt": "2026-05-06",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0o5akh3ai1FcVpxSXhsR0dLLUpKUkljWmJ4TktjNTRoSklpZHFNYVAtZnNDbGlIUkFBcXUtTzVNcmNsQ054UURTc0tHTUFHbXl2NVBtQWJpd2xKMHozTTV2RldTQkVHUlNTaGtQQkZuNjFEWmFJVXVjX2hfckhSNGhMeF9TUENyOUJ3blB4T2lnT2xQZ09hSnp3RHgyTF9hZTdEVXN3VTNPYVBpVjFTcVNHVGNwbU5uNnk0?oc=5",
+          "publishedAt": "2026-10-07",
           "kind": "新闻"
         }
       ]
@@ -132,18 +132,8 @@
       ],
       "items": [
         {
-          "title": "What Are Commodities in Trading? Examples & How to Invest - Britannica",
-          "titleEn": "What Are Commodities in Trading? Examples & How to Invest - Britannica",
-          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ESEFjM0wtQW9ZQnN2b0hHREZ6b2pmNFZ0QTd1emF1ald0ZDNmeGV3SC1Eb3EzRVlGVl9pN3ZzcDYzQXh0MVlhcFBuT1hPczllQTdpWC1CODVTTGh4QzgyTkdEMA?oc=5",
-          "publishedAt": "2026-09-24",
-          "kind": "新闻"
-        },
-        {
-          "title": "The Commodity Markets Outlook in eight charts - World Bank Group",
-          "titleEn": "The Commodity Markets Outlook in eight charts - World Bank Group",
+          "title": "The Commodity Markets Outlook in eight charts - World Bank Blogs",
+          "titleEn": "The Commodity Markets Outlook in eight charts - World Bank Blogs",
           "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
           "source": "Google News RSS",
@@ -152,13 +142,23 @@
           "kind": "新闻"
         },
         {
-          "title": "What Moves Commodity Prices? Key Drivers Explained - Sahi",
-          "titleEn": "What Moves Commodity Prices? Key Drivers Explained - Sahi",
+          "title": "5 Best Commodity ETFs to Buy Now - Kiplinger",
+          "titleEn": "5 Best Commodity ETFs to Buy Now - Kiplinger",
           "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGpJdTBMdm9TUUFIdHVucDhPMnd3RnAwa1pxbGQ3S3RGUWRsVTZaTk8xY2VZYmxMMmJKNFFxRVNlWktzRVlqWkU5eURCYnhJVEhGUTF4MVlLaE5ta2JGYjJtamxtcm5LMWw0aDg2NUFoa2kyd0FBRmVmTWdnTm1ZVHpCLW9OUEFwVmFCdWxickRzSms3VEpfRHRCZ1FiN1Qxc2xJVklzMXJhQ0F4N1FZVnZvYmQybk0?oc=5",
-          "publishedAt": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2k3dDdIbnVyN3BWeWl4cGVMVU9IeHRKaVZ6TEhDbzNIOUtveFJUb2dlek9JZ3pLQkhuNDhDUjBNSGM5UzBlbVExemJ4LVJSMlRwRVA2RjVsem11QktVT2lWeFIwbEJoX0VSLVlfVFl4WllWcFNRcWpqaHBBaGRQbE8wR3ZscHJOYkhnNDdNajRDdw?oc=5",
+          "publishedAt": "2026-07-24",
+          "kind": "新闻"
+        },
+        {
+          "title": "MOST TRADED COMMODITIES IN THE WORLD - eToro",
+          "titleEn": "MOST TRADED COMMODITIES IN THE WORLD - eToro",
+          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ETjVJQ3BjbGt2MUlycWRONzhoeF9JRDhZY29acURrV044UWJrODFtLWFpLTU3SExhSmZ3Zk01ejlpcGlONXY4eVlNcVhiRlluSnYtU1BJR3FNWS1vZGFFbDFuR3Y?oc=5",
+          "publishedAt": "2026-09-08",
           "kind": "新闻"
         }
       ]
@@ -182,8 +182,8 @@
       ],
       "items": [
         {
-          "title": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - rainforesttrust.org",
-          "titleEn": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - rainforesttrust.org",
+          "title": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - Rainforest Trust",
+          "titleEn": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - Rainforest Trust",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
           "source": "Google News RSS",
@@ -202,13 +202,13 @@
           "kind": "新闻"
         },
         {
-          "title": "South Sudan secures first UNESCO world heritage site with Boma-Bandingilo inscriptiob - Eye Radio",
-          "titleEn": "South Sudan secures first UNESCO world heritage site with Boma-Bandingilo inscriptiob - Eye Radio",
+          "title": "Graphics: China's growing footprint in the World Heritage landscape - CGTN",
+          "titleEn": "Graphics: China's growing footprint in the World Heritage landscape - CGTN",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQam1UUFVuN2h4XzZTanc3MFpBZnhtaklzYlRvSHNUTzdiejI3dDJMVEhNYmd5Sy1USk5CU0stNUh6SUhGUEZYVnRpc21sTDF6dXppa0taUVBub3pObkk4cGRLeURyMU8zSnVqb0RMNVNOSXBfMldRYXBwY3BGSnQ0eFFrNkQzWFoxOXJpZmhOQTloLW9RdGxZR2NNdXExUEZ6cFFsSHBCVEpVOFnSAbABQVVfeXFMTW9NekJJeHdYMVVsNEMzYzEzVXIzV1VaanpkQWtHQUQ0Vm81Y1UwRnNOOE81UjkzNFAxLXVUUC1BOHdHbkZrck1yVVBqcGltdk9VNG1lNGc1V3o2UURxRWE4Q2k2YTlLQ3JUeFQwaXp4Z3pvcGpZUnB0NTczV3kzd2R2dk5DOUg3ZzIycnZpZEZlX21BY2lITE9LNHN3dlVvbDNUeXJyMU9yNXhaMTk2UUs?oc=5",
-          "publishedAt": "2026-10-04",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ1pmNGFiQU4yNHY3bHV5RHhmaUd6SHUtb3FGVmtvSXFBWHphQWlScHF5Vmhicl9xUXRFQXdtUUxXblhfMTN4dFdQcEFFUWNhNndVREcyVkd0ME1oMHBRVEpVcUhBcHp6MEpiZnE5di1DTGpSR1cyOHVNUHpUd1Nld19oNmNaN3lyNVVZNzB2a3NnRTZycjRCR25MZXM0M19CSXVWcll5TkRlbGdHNFlaUW9iTFAxMVZiODRETTh0WUk?oc=5",
+          "publishedAt": "2026-07-21",
           "kind": "新闻"
         }
       ]
