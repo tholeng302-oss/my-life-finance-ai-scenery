@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:30:16.781Z",
+  "updatedAt": "2026-11-02T06:56:41.793Z",
   "topics": [
     {
       "id": "ai",
@@ -28,6 +28,16 @@
       ],
       "items": [
         {
+          "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+          "titleEn": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
+          "publishedAt": "2026-04-07",
+          "kind": "新闻"
+        },
+        {
           "title": "Microsoft teases new era of AI-driven devices at annual developer conference - Reuters",
           "titleEn": "Microsoft teases new era of AI-driven devices at annual developer conference - Reuters",
           "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
@@ -38,23 +48,13 @@
           "kind": "新闻"
         },
         {
-          "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic - The Verge",
-          "titleEn": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic - The Verge",
+          "title": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
+          "titleEn": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
           "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFl3bUFjbVY1Uk00MzA3WmhBNWUweGdrajdheDdTdFhZV3ZqTjloVGRUOG52bEZ5V29YcGJtN0E0OTFxeG15Z2FTX1RVSUtxbTVGdjMxSXl6VXVhRmpwNXEyMnBfSXVkX29xVU13cGRzdXhEV3E2R2dCS3dIWkVyaENDb1cwd0N0bVQzYWxSSkk1cnA5YUJOVUJuRFNSM2FrSGxtSQ?oc=5",
-          "publishedAt": "2026-05-01",
-          "kind": "新闻"
-        },
-        {
-          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks - TechCrunch",
-          "titleEn": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks - TechCrunch",
-          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXZUN3FzaU00WEFaN2x4SXVJUFh5X3FPb2hFZGtlWWlVeTFiN25JOGlhbk01RmItbWw4TTQ2a1J6aU9FS2RMenpINmhTYkVackpfVHFFQkNmUnVTRElNZHVjYUJMNndkcVdMbjNRQ3pyLWxaSm5vWVhJM2xWaHA1TkY1THJCRm5wcEp5NmJ0aFViSjMzR2JDUmFpcFJ2UHJ6ZkdUU2Z2TXpqZEV4Y3NTdFd5TWtFRDZRTklGWg?oc=5",
-          "publishedAt": "2026-05-01",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzlaalc4M1lYMERJcTFfSkt3SVJlVm1tQ3AyNzZ4VkY1TjUwQmZFb3c0LWVpNzhLMVFZSWw2Q01LUmNST1h0NFRZMzRDRXhWNk8zZktNa3VycUtNbVR0YjJsdnR3b2dGNlNXRExqRGdIS3FmRjFjX2FrRDVBVUVGWTRxa3VUOHNhVWp3dHNYWmlYZE1lRkdjYUJjSGNmSXdTMkJvbdIBqgFBVV95cUxNRFczRTQ3OFQ0Z3hpWHJDYTl0LU9Nc2FRNFhjeDdGOUxLRU9UMzNRREhZUDhLemIxdGUtS0E0bmcxNlZ6b0tYYVVTTi1ScTA2V2ViLVZ6NEY1SWh0NjdIQ0RkMU9BamF4MnBYM05oS1RVd3RfOFRDbzFZNkRoN21jeDlzQ1Z6aDduV0RjdVl4d2ZsUzJBOGZPYVQ3QlJsYmNnbi1IbnJUNnJJdw?oc=5",
+          "publishedAt": "2026-09-17",
           "kind": "新闻"
         }
       ]
@@ -88,23 +88,23 @@
           "kind": "新闻"
         },
         {
-          "title": "Equal weight ETFs: reducing market concentration - Invesco",
-          "titleEn": "Equal weight ETFs: reducing market concentration - Invesco",
+          "title": "Why Are Stocks at Record Highs with no Iran Resolution? - J.P. Morgan",
+          "titleEn": "Why Are Stocks at Record Highs with no Iran Resolution? - J.P. Morgan",
           "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTBpT3FJR0pzTnY2UzRKN1Q3ckVMZzRyaTNROHV4Nk9pNTdJdkFBM1E5T2lTd25UcW9mZW43eW1pZkhzVnNTTER3dk9MTkU4Sm03MnJvVjMxWXZNeG1TZU1KOXMzMlRtR2JoWm84MXVmdkNRV25nd2RJYlRIUEhKOFpvdlBiVWpXRGc?oc=5",
-          "publishedAt": "2026-09-24",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3o0YTF6TDN4XzFLLXRCOFFJelJRWjBiY1dRV0hiZXI3NUdnVm5zcVRibDNrODd2UjFLTDhieExrVFZaUE1rUWdYZlZjVU1wbW40ZENodDQ2cGtkNkVZZ3Y0VGptRXlJOW9zWW5RcVFfNDN1SmlpZ2hfTFVDUmh5RmJ2MUN1a2pSdHVmanZLaHVuQ3BQQzB0eVZyMkZlWEx1UE5GY3h5bkdDV2U3SzFhS1hPTEh6OVJhTXQ4TU9hbURLTHR4blJ6YXFUYi02Zw?oc=5",
+          "publishedAt": "2026-04-24",
           "kind": "新闻"
         },
         {
-          "title": "The Market Concentration You Didn't Choose - VanEck",
-          "titleEn": "The Market Concentration You Didn't Choose - VanEck",
+          "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks - CNBC",
+          "titleEn": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks - CNBC",
           "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGo2cXQxX0xIdnBfOUdnM2M3QTBTNXlpMjBneHgwbW9CXzY5S1NXZUYtenp0LUlMam1US0hMZUFBM0tNdmVMZnFfVERleGQ5WVBtM3U3Rm9JcHlLR0pGbXNLcnhvLWFJWmxYeTBsUW9lc1Q1SHJCNWNUUDhWYVVnajhZRjFLVTV0QktYajZhYjBDQWc?oc=5",
-          "publishedAt": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2VOWnhlQlZWMFZaUWM3YTd5c3pvaFA5cnEzNGVJOGJCZnlKN3lrcjh0NGlfR2ttRHAzc1Y1MzFxM0lkWmJhM2NXQVhSbEJBUnN0OURON2tHblVCbVhOVEpQYlFJTXhiaUJ6d2otVGJ4LUdIcFk4TWU1OFUtbmVxYmtGZnRRUEsxeEtQY0JvMFBULUgyTmdF0gGcAUFVX3lxTE1jcHZUUFlxOHNtY2tKWVVqS3BxbF9yZDF0aVJqRXBfZmVLQjFRS05lUFhQczlsRUVUb3I2eG4yTEE2YS1sTk5iWUtvZWpMUHd3ZWJkamppMmthdVExcjkwRko1REtjRk1VeHcwX2FqM3ZiUTdvRGpyRWlXR2d5bW55bGdERXJxNURndy1hU1FmY1JibjZPYUppbk5VVg?oc=5",
+          "publishedAt": "2026-03-06",
           "kind": "新闻"
         }
       ]
@@ -132,6 +132,16 @@
       ],
       "items": [
         {
+          "title": "From Supercycle to Scramble: Geopolitical Fragmentation Rewrites the Commodity Playbook - NAI500",
+          "titleEn": "From Supercycle to Scramble: Geopolitical Fragmentation Rewrites the Commodity Playbook - NAI500",
+          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ01ZOEtfa2FPZDk1Sm45cHRXMXE0Uzg0NFIzZ0ZlaUdFNHpEaldUbFRlQktYOTBhTUNTSzN3aEotVXgxbGhabEtzeDZiNUUyb0lMd1padVJrbVNMNUx6SnhNdU05SjN6WjhEaGJoLTRsSjd2dl91LXlqVlRMTm52VUVOR0FXVWlXNXZ2Rk9xX0FHYjBJejJhLTl6TFRQbjlxRDdlNmJRM1lXLVZSQmplMDh0dlZxRmE0MVVz?oc=5",
+          "publishedAt": "2026-11-02",
+          "kind": "新闻"
+        },
+        {
           "title": "Commodity prices to hit record highs before easing through 2027 - Oxford Economics",
           "titleEn": "Commodity prices to hit record highs before easing through 2027 - Oxford Economics",
           "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
@@ -149,16 +159,6 @@
           "source": "Google News RSS",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjBXRzlVTHN6ZjNNcWRTRU0xMFRlaG5uUVhkUzRacEdrUURuWnJqVnZoME1oNHRva3hsT1JDZElEN0VrVmt4WWNEY1oyUVppbllWbUdPRG1ROHYzQXYxUWZYOXJQS3p5SkZpQnhpcWlUNVRFM2xfM1NnOWlYX0FJRnJPdzI2NVRicVkxNWFrakJxaXZDSTA4QQ?oc=5",
           "publishedAt": "2026-04-30",
-          "kind": "新闻"
-        },
-        {
-          "title": "Commodities Quick-Take - TD Economics",
-          "titleEn": "Commodities Quick-Take - TD Economics",
-          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdzhQMEluOXcyYldUZm5tZnNrU2R1QTRGQkt6UVYzUEVpamVHcXJHWFJPaDF6b095Yk1iU0NlbU9YQlVONnhRb1l3M04xWFJmOVRLMFdSYTZDeDA?oc=5",
-          "publishedAt": "2026-05-12",
           "kind": "新闻"
         }
       ]
@@ -182,6 +182,16 @@
       ],
       "items": [
         {
+          "title": "ICOMOS continues evaluation of Masuleh’s UNESCO World Heritage nomination - Tehran Times",
+          "titleEn": "ICOMOS continues evaluation of Masuleh’s UNESCO World Heritage nomination - Tehran Times",
+          "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmhpZ0dGLXlDdnd3SlFOeWNlNUpwWmtGcmdUWmZubUlvMllsS0tsR3hUc2lISjFvaTFGcE0yS1VWcWYxbjdEbjlhWGJLbDFJcGpnWG1nOXI5cXh6aVVmM0dUZXlJbjVwNWVGbmxXVms1dzFwTTFEbnA5WnJ6WXp1NVlrZ1E5R3NVTDJyQUU5MDVrd0FNdS05cENoVnhBckNpNzZLOA?oc=5",
+          "publishedAt": "2026-10-31",
+          "kind": "新闻"
+        },
+        {
           "title": "Facing major threats, six new sites join UNESCO’s List of World - UNESCO",
           "titleEn": "Facing major threats, six new sites join UNESCO’s List of World - UNESCO",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
@@ -192,23 +202,13 @@
           "kind": "新闻"
         },
         {
-          "title": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - Rainforest Trust",
-          "titleEn": "South Sudan’s Boma–Badingilo Migratory Landscape Named Country’s First UNESCO World Heritage Site - Rainforest Trust",
+          "title": "New framework makes biodiversity visible through cultural heritage landscapes - Bioengineer.org",
+          "titleEn": "New framework makes biodiversity visible through cultural heritage landscapes - Bioengineer.org",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTGtUc0xoN2ZfcXdiSGk1aldzY0tDdWw5R1JuMFAxcUowZkp4ZTBndzZCTFM4UGFyX2Q4TzNMUmw4a1owN1FRcHptSmtEaGdjeUd1aXpxN0VrZTYtRF9hYTZaRnRrejhOU2lsaFNFcXFEZFo3QVZCb3J5TFhfTG93VjRzOE4tRDFpUjQzRVpKNDlTMHhxbXd1WXJNRDlMZzV0YjN5VmZRQWFwbWI3ZFMtd0xpVkJfOUI0OWdPb3BkSDFfZFdiMUJvQms4RG5hYnFLREE5T0ZTWHZ3M0o1UXNzWHRKSWtocnBYOHlr?oc=5",
-          "publishedAt": "2026-07-29",
-          "kind": "新闻"
-        },
-        {
-          "title": "UNESCO adds three Indian sites to Tentative List, from Andaman volcanoes to Chhattisgarh’s Sirpur: What ma - The Economic Times",
-          "titleEn": "UNESCO adds three Indian sites to Tentative List, from Andaman volcanoes to Chhattisgarh’s Sirpur: What ma - The Economic Times",
-          "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVENHLU0xTTUzbEtQZjByWThybzJfb1JOSndTNU5PbnFWUGhGN2t1dkdBMVlvd3FrZlFKYnl6YkVWU2ExdEZUM3hRdVJTbE44ZEkwejl3M2pvQTE3eW1pTng0eS0yNVFzRHVRMVRkLThwNEpaYXcwS3doaGt2UzRnLTB5N1NkeURYWTZmbkVJVm82c3haNWY3QjJXNVVoQTdlOFc1ZUNNdkZTMl81SVNvYXNsTjBlcURtb1ZfYVA4bWg3VUpscVppQlJPVXlKQmNJOGpXOTJHU1FRRlpkQS1Pb1Z4d0g5YmhUVFJ4c1BnOUpESlBwUlNqZzZtUWdTejBHcE1ua0VDeE9WRzlRN2FHVDNjVVg0R21HbFdPS3BYTdIBpAJBVV95cUxPTHBwM1F2WHl5RWstSm16b3JQZ1FKbWpUenJBNXF6UGpkQTFuQ09OVHp0b094UTBDNnZrbU4tR1lra1N6aEFTSkFoaEZjN05USG1KSVFKR3Z1ZUpiNGVQT0VIRndUN0J1M2R6VzMwSS1nc2hJODcxZzZERHFNRUlNcWxYZVpBN1BoanFaVV8xRlhhTlRfb2YwclpJX25Idi1GdDhmSVI2bUlKcFlSYWFmak1hLWhVV09kMlBpRzZQVTRENHh3a3E4RGxlU1h2ZXN5bjFnTHF2UmxCT0ZUV0lwbXNPQVo3TGVLUVZIbFUyUlBHeXRKRGxiSElBZUs2SUw0OEtrT1hQT25QWUlENUVpMmJsa3dBSDF6UERfbzV5TUhJUEtP?oc=5",
-          "publishedAt": "2026-10-25",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTVDa2NJa1VzYUEweDAzMkFUNzRFN25EOTdsbjN3SnF0WmoyX1ZsekJObU1ueGFmcE9WSDYtRk5sUGhnNUFIS2poNHc5am4yVWdmRXRmMWcwdWg5UGkzbXlNNWlNRkxKRXR6TFh4a0NocGF6dERLOFFraTE0S20tcjdSVEgwVS1MdDg3dzRiaUFCcERtNjUxc1E4aEdhc0RXdlJDVw?oc=5",
+          "publishedAt": "2026-10-28",
           "kind": "新闻"
         }
       ]
