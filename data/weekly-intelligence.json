@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:56:41.793Z",
+  "updatedAt": "2026-11-09T07:19:04.877Z",
   "topics": [
     {
       "id": "ai",
@@ -38,6 +38,16 @@
           "kind": "新闻"
         },
         {
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
+          "titleEn": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
+          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+          "publishedAt": "2026-07-27",
+          "kind": "新闻"
+        },
+        {
           "title": "Microsoft teases new era of AI-driven devices at annual developer conference - Reuters",
           "titleEn": "Microsoft teases new era of AI-driven devices at annual developer conference - Reuters",
           "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
@@ -45,16 +55,6 @@
           "source": "Google News RSS",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2hudE1XOEVGajhxeFBhMXZBbDRYTHJieG1waXZLRG85S3lNSGFKWnVCQnNLWnd0RmNsZjBGcFoxQlhqR3l5T1A5Ni02UU42SnRZUEJ5WWJMMUJPTWdBVjV2SW5NQ0NUQ25JWURYSEVJdmFTMGlGX2M3VHpWLUs2MG5MeFh4aUJrcjk4OG16OHk3S0tUSW9JUW5jR0JrWU9HRUNJcFpqcVdxVXFmR0wwOEIyODNESk5HWUE?oc=5",
           "publishedAt": "2026-06-03",
-          "kind": "新闻"
-        },
-        {
-          "title": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
-          "titleEn": "What are the world’s biggest AI companies and how much are they worth? - Al Jazeera",
-          "summary": "来自 人工智能 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Artificial intelligence monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzlaalc4M1lYMERJcTFfSkt3SVJlVm1tQ3AyNzZ4VkY1TjUwQmZFb3c0LWVpNzhLMVFZSWw2Q01LUmNST1h0NFRZMzRDRXhWNk8zZktNa3VycUtNbVR0YjJsdnR3b2dGNlNXRExqRGdIS3FmRjFjX2FrRDVBVUVGWTRxa3VUOHNhVWp3dHNYWmlYZE1lRkdjYUJjSGNmSXdTMkJvbdIBqgFBVV95cUxNRFczRTQ3OFQ0Z3hpWHJDYTl0LU9Nc2FRNFhjeDdGOUxLRU9UMzNRREhZUDhLemIxdGUtS0E0bmcxNlZ6b0tYYVVTTi1ScTA2V2ViLVZ6NEY1SWh0NjdIQ0RkMU9BamF4MnBYM05oS1RVd3RfOFRDbzFZNkRoN21jeDlzQ1Z6aDduV0RjdVl4d2ZsUzJBOGZPYVQ3QlJsYmNnbi1IbnJUNnJJdw?oc=5",
-          "publishedAt": "2026-09-17",
           "kind": "新闻"
         }
       ]
@@ -78,33 +78,33 @@
       ],
       "items": [
         {
+          "title": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap - Bloomberg.com",
+          "titleEn": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap - Bloomberg.com",
+          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
+          "publishedAt": "2026-11-05",
+          "kind": "新闻"
+        },
+        {
+          "title": "Weekly market commentary - BlackRock",
+          "titleEn": "Weekly market commentary - BlackRock",
+          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+          "publishedAt": "2026-11-02",
+          "kind": "新闻"
+        },
+        {
           "title": "How the Largest Stock ETFs in the UK Performed - Morningstar",
           "titleEn": "How the Largest Stock ETFs in the UK Performed - Morningstar",
           "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
           "source": "Google News RSS",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaU90VEFfaWhqVFJ4N2NEeGNMckc1SmEwdHFfMXA5ZWJVZHFxME5yR0hFUHMzeE5IVnBMLWZVR0lXekRreS1CanljYUJjWjRka244blBDNUVWNmtVa1lZTmw4RzhYSmx0WDJGUWZRQ01pVENNZ1dhalpzR2JSLXpGXzVrTQ?oc=5",
-          "publishedAt": "2026-10-06",
-          "kind": "新闻"
-        },
-        {
-          "title": "Why Are Stocks at Record Highs with no Iran Resolution? - J.P. Morgan",
-          "titleEn": "Why Are Stocks at Record Highs with no Iran Resolution? - J.P. Morgan",
-          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3o0YTF6TDN4XzFLLXRCOFFJelJRWjBiY1dRV0hiZXI3NUdnVm5zcVRibDNrODd2UjFLTDhieExrVFZaUE1rUWdYZlZjVU1wbW40ZENodDQ2cGtkNkVZZ3Y0VGptRXlJOW9zWW5RcVFfNDN1SmlpZ2hfTFVDUmh5RmJ2MUN1a2pSdHVmanZLaHVuQ3BQQzB0eVZyMkZlWEx1UE5GY3h5bkdDV2U3SzFhS1hPTEh6OVJhTXQ4TU9hbURLTHR4blJ6YXFUYi02Zw?oc=5",
-          "publishedAt": "2026-04-24",
-          "kind": "新闻"
-        },
-        {
-          "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks - CNBC",
-          "titleEn": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks - CNBC",
-          "summary": "来自 全球主要股市 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global equities monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2VOWnhlQlZWMFZaUWM3YTd5c3pvaFA5cnEzNGVJOGJCZnlKN3lrcjh0NGlfR2ttRHAzc1Y1MzFxM0lkWmJhM2NXQVhSbEJBUnN0OURON2tHblVCbVhOVEpQYlFJTXhiaUJ6d2otVGJ4LUdIcFk4TWU1OFUtbmVxYmtGZnRRUEsxeEtQY0JvMFBULUgyTmdF0gGcAUFVX3lxTE1jcHZUUFlxOHNtY2tKWVVqS3BxbF9yZDF0aVJqRXBfZmVLQjFRS05lUFhQczlsRUVUb3I2eG4yTEE2YS1sTk5iWUtvZWpMUHd3ZWJkamppMmthdVExcjkwRko1REtjRk1VeHcwX2FqM3ZiUTdvRGpyRWlXR2d5bW55bGdERXJxNURndy1hU1FmY1JibjZPYUppbk5VVg?oc=5",
-          "publishedAt": "2026-03-06",
+          "publishedAt": "2026-07-03",
           "kind": "新闻"
         }
       ]
@@ -132,16 +132,6 @@
       ],
       "items": [
         {
-          "title": "From Supercycle to Scramble: Geopolitical Fragmentation Rewrites the Commodity Playbook - NAI500",
-          "titleEn": "From Supercycle to Scramble: Geopolitical Fragmentation Rewrites the Commodity Playbook - NAI500",
-          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
-          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
-          "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ01ZOEtfa2FPZDk1Sm45cHRXMXE0Uzg0NFIzZ0ZlaUdFNHpEaldUbFRlQktYOTBhTUNTSzN3aEotVXgxbGhabEtzeDZiNUUyb0lMd1padVJrbVNMNUx6SnhNdU05SjN6WjhEaGJoLTRsSjd2dl91LXlqVlRMTm52VUVOR0FXVWlXNXZ2Rk9xX0FHYjBJejJhLTl6TFRQbjlxRDdlNmJRM1lXLVZSQmplMDh0dlZxRmE0MVVz?oc=5",
-          "publishedAt": "2026-11-02",
-          "kind": "新闻"
-        },
-        {
           "title": "Commodity prices to hit record highs before easing through 2027 - Oxford Economics",
           "titleEn": "Commodity prices to hit record highs before easing through 2027 - Oxford Economics",
           "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
@@ -159,6 +149,16 @@
           "source": "Google News RSS",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjBXRzlVTHN6ZjNNcWRTRU0xMFRlaG5uUVhkUzRacEdrUURuWnJqVnZoME1oNHRva3hsT1JDZElEN0VrVmt4WWNEY1oyUVppbllWbUdPRG1ROHYzQXYxUWZYOXJQS3p5SkZpQnhpcWlUNVRFM2xfM1NnOWlYX0FJRnJPdzI2NVRicVkxNWFrakJxaXZDSTA4QQ?oc=5",
           "publishedAt": "2026-04-30",
+          "kind": "新闻"
+        },
+        {
+          "title": "What Are Commodities in Trading? Examples & How to Invest - Britannica",
+          "titleEn": "What Are Commodities in Trading? Examples & How to Invest - Britannica",
+          "summary": "来自 国际主要大宗商品市场 监测网络的本周更新，请访问原文了解详情。",
+          "summaryEn": "This week’s update from the Major global commodity markets monitoring network. Open the source for full details.",
+          "source": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ESEFjM0wtQW9ZQnN2b0hHREZ6b2pmNFZ0QTd1emF1ald0ZDNmeGV3SC1Eb3EzRVlGVl9pN3ZzcDYzQXh0MVlhcFBuT1hPczllQTdpWC1CODVTTGh4QzgyTkdEMA?oc=5",
+          "publishedAt": "2026-10-17",
           "kind": "新闻"
         }
       ]
@@ -182,13 +182,13 @@
       ],
       "items": [
         {
-          "title": "ICOMOS continues evaluation of Masuleh’s UNESCO World Heritage nomination - Tehran Times",
-          "titleEn": "ICOMOS continues evaluation of Masuleh’s UNESCO World Heritage nomination - Tehran Times",
+          "title": "America's Newest UNESCO World Heritage Site Is a Swamp—and That's Exactly Why You Should Go - Smithsonian Magazine",
+          "titleEn": "America's Newest UNESCO World Heritage Site Is a Swamp—and That's Exactly Why You Should Go - Smithsonian Magazine",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmhpZ0dGLXlDdnd3SlFOeWNlNUpwWmtGcmdUWmZubUlvMllsS0tsR3hUc2lISjFvaTFGcE0yS1VWcWYxbjdEbjlhWGJLbDFJcGpnWG1nOXI5cXh6aVVmM0dUZXlJbjVwNWVGbmxXVms1dzFwTTFEbnA5WnJ6WXp1NVlrZ1E5R3NVTDJyQUU5MDVrd0FNdS05cENoVnhBckNpNzZLOA?oc=5",
-          "publishedAt": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVhCdVlncU5rbUpla1hMVE8xN3kzNmlIQy1kN0Y5TTZuSXo5LU9OSDFzLVk2c0VPd3VTVEFxbVBoV0t0eUg5UzFnRkFMSjd1QnMwcUk1R245OVMtRDdIcDd5UXlkMjJ1YzZZR3NvY1dfa3cwaEdzR1psUUxXeW90eWhEU2c2SmtQQTlWVUZVb0VySmRHYlM3WHpTclhKQWxOV3NXS1VtaTNDU3had3NPLV9rNmd5NGRwZU5IeEEtUWpZbVdSRG1UX245dWZmOWdfS3BJ?oc=5",
+          "publishedAt": "2026-11-05",
           "kind": "新闻"
         },
         {
@@ -202,13 +202,13 @@
           "kind": "新闻"
         },
         {
-          "title": "New framework makes biodiversity visible through cultural heritage landscapes - Bioengineer.org",
-          "titleEn": "New framework makes biodiversity visible through cultural heritage landscapes - Bioengineer.org",
+          "title": "Enhancing UNESCO designated sites as Learning Landscapes - Unesco",
+          "titleEn": "Enhancing UNESCO designated sites as Learning Landscapes - Unesco",
           "summary": "来自 风景与文化景观 监测网络的本周更新，请访问原文了解详情。",
           "summaryEn": "This week’s update from the Scenery and cultural landscapes monitoring network. Open the source for full details.",
           "source": "Google News RSS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTVDa2NJa1VzYUEweDAzMkFUNzRFN25EOTdsbjN3SnF0WmoyX1ZsekJObU1ueGFmcE9WSDYtRk5sUGhnNUFIS2poNHc5am4yVWdmRXRmMWcwdWg5UGkzbXlNNWlNRkxKRXR6TFh4a0NocGF6dERLOFFraTE0S20tcjdSVEgwVS1MdDg3dzRiaUFCcERtNjUxc1E4aEdhc0RXdlJDVw?oc=5",
-          "publishedAt": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVpybXVMbl9EVlhWNWM1dUJYTWJCUEM2cVpmanFrX2VhOHpkOEIzMklmN19FaE41eWhsZ05ldUppckhxVFZIQS1iN2dQR3RJS0lhTFhzSzBGbTFldXpYM1lrM2dxQktWZXdOYjdtRC1CTk5pSEhZa1puRy1odWJRMEhwVEFTUDlrWTNYU0RKWmwxUQ?oc=5",
+          "publishedAt": "2026-07-03",
           "kind": "新闻"
         }
       ]
